@@ -6,3 +6,7 @@ Este dataset simula la operación integral de un concesionario de vehículos mod
 
 
 El dataset sigue una arquitectura de Esquema en Estrella (Star Schema), optimizada para herramientas de analítica como Power BI, R y Python.
+<img width="772" height="435" alt="Reporte Movimiento de Inventario" src="https://github.com/user-attachments/assets/18a684a9-a69c-40ea-8b5f-d496298df9f4" />
+<img width="901" height="497" alt="Reporte Ventas" src="https://github.com/user-attachments/assets/e409a2b2-213a-4bce-aa91-42e9e6506c3d" />
+
+
